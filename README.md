@@ -1,3 +1,5 @@
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWvoJof0VQVuyensI7lm7rEaaZF2bxFU90g&s)
+
 - 👋 Hi, I’m @leofattal
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning html
